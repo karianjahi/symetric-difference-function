@@ -7,11 +7,11 @@ Perfect for learning array methods, practicing functional programming, or handli
 ---
 
 ## 🧪 User Stories (Requirements)
-✔️ The function `diffArray` returns an array
-✔️ The function takes two arguments, both arrays
-✔️ The function uses `filter`
-✔️ The function returns the symmetric difference
-✔️ Returns empty array when the arrays have no difference
+1. ✔️ The function `diffArray` returns an array
+2. ✔️ The function takes two arguments, both arrays
+3. ✔️ The function uses `filter`
+4. ✔️ The function returns the symmetric difference
+5. ✔️ Returns empty array when the arrays have no difference
 
 ## ✨ Features
 
